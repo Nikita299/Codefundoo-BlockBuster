@@ -24,14 +24,9 @@ This will help voters to choose a candidate based on the sector he wishes to pri
  
 	Flowchart of idea 
 
- IPFS ----->  NEWS/Social media posts  -----> Crowd Wisdom -----> Public Blockchain -----> User can now compare
-                                                  |                                        different candidates.
-                                                  |
-                                       (Analysis and segregation                             
-                                          using ML and Bayesian
-                                           Truth Serum Test)                                           
-
-
+ IPFS ----->  NEWS/Social media posts  -----> Crowd Wisdom (Analysis and segregation using ML and Bayesian Truth Serum Test)----->         Public Blockchain -----> User can now compare different candidates.
+                                                                                         
+                                                                                                              
 	Technologies Used 
 
 Front End - Web Application for Users
