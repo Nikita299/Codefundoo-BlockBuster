@@ -38,9 +38,10 @@ This will help voters to choose a candidate based on the sector he wishes to pri
 
 Front End - Web Application for Users
 
-Back End - 	 1) CIVIC API - In order to avoid multiple identities of users.
-             2) Blockchain workbench from Azure.
-             3) IPFS - to store data in a distributed database.
+Back End - 
+           1) CIVIC API - In order to avoid multiple identities of users.
+           2) Blockchain workbench from Azure.
+           3) IPFS - to store data in a distributed database.
 
 
 	Scalability and Feasibility 
