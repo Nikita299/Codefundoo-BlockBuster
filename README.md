@@ -1,5 +1,5 @@
-# Codefundoo-BlockBuster
-Microsoft - Codefundoo++ 
+# Codefundo-BlockBuster
+Microsoft - Codefundo++ 
 
 Team BlockBuster - Idea Submission
 
